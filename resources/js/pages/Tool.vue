@@ -172,7 +172,7 @@
           </div>
 
           <div class="nc-content">
-
+            <p>Test</p>
             <!-- week wrapper -->
             <div v-for="(week, weekIndex) in $data.weeks" class="week">
 
